@@ -1,0 +1,21 @@
+/* *
+{
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 0;
+} */
+
+.h-200 { height: 200px; }
+.h-50 { height: 50px!important; }
+.h-550 { height: 550px; }
+.h-250 { height: 250px; }
+.h-157 { height: 157px; }
+.img-size { height: 172px; }
+
+/*@media screen and (max-width: 700px) {*/
+/*    .menu-position{*/
+/*        position: absolute;*/
+/*        right: 0px;*/
+/*        top: 0px;*/
+/*    }*/
+/*}*/
